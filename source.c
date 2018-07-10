@@ -16,7 +16,7 @@
 #include "Serial_Uart0.c"
 #include "adc0.c"
 #include "GSM.c"
-#include "App.c
+#include "App.c"
 int PinStatus_Port(unsigned char ,unsigned int);
 void Multichannel_Data_Display(void);
 void LCD_Lable_display(void);
